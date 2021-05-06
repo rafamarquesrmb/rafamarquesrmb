@@ -1,6 +1,6 @@
 # 🧑🏻‍💻Hey! 👋
 
-My name is Rafael Marques, I'm from Brazil. I'm a Bachelor of Science and Technology :mortar_board: from the Federal University of Bahia (UFBA). I've been working as a developer :computer: and entrepreneur :rocket: since 2019.
+My name is Rafael Marques, I'm from Brazil. I'm a Bachelor of Science and Technology :mortar_board: from the Federal University of Bahia (UFBA). I've been working as a Full Stack Developer :computer: and Entrepreneur :rocket: since 2019.
 
 I am passionate about learning new things, technology and solving problems. Besides loving entrepreneurship!
 
